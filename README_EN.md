@@ -70,6 +70,7 @@ A developer who loves blending AI, computer vision, and web technologies into fu
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [git-tutorial](https://github.com/XiaoHuZi-design/git-tutorial) | The most comprehensive Git tutorial for beginners: from install to collaboration, with cheat sheets and workflow diagrams | Markdown |
+| [zhaoxuzuo_ros2](https://github.com/XiaoHuZi-design/zhaoxuzuo_ros2) ⭐ | Zhao Xuzuo's ROS2 tutorial study notes | ROS2 / Humble |
 
 ---
 
@@ -78,7 +79,6 @@ A developer who loves blending AI, computer vision, and web technologies into fu
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [zhaoxuzuo_ros2](https://github.com/XiaoHuZi-design/zhaoxuzuo_ros2) ⭐ | Zhao Xuzuo's ROS2 tutorial study notes | ROS2 / Humble |
-| [rosnav_ws](https://github.com/XiaoHuZi-design/rosnav_ws) | Simple navigation simulation framework | CMake |
 | [path_planner_plugins](https://github.com/XiaoHuZi-design/path_planner_plugins) | Custom path planner plugins | Python |
 
 ---

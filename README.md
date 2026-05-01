@@ -70,6 +70,7 @@
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
 | [git-tutorial](https://github.com/XiaoHuZi-design/git-tutorial) | 面向小白的 Git 最全使用教程：从安装到协作，图文并茂，内嵌速查手册和工作流壁纸 | Markdown |
+| [zhaoxuzuo_ros2](https://github.com/XiaoHuZi-design/zhaoxuzuo_ros2) ⭐ | 赵虚左 ROS2 教程学习文档 | ROS2 / Humble |
 
 ---
 
@@ -78,7 +79,6 @@
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
 | [zhaoxuzuo_ros2](https://github.com/XiaoHuZi-design/zhaoxuzuo_ros2) ⭐ | 赵虚左 ROS2 教程学习文档 | ROS2 / Humble |
-| [rosnav_ws](https://github.com/XiaoHuZi-design/rosnav_ws) | 简易导航仿真框架 | CMake |
 | [path_planner_plugins](https://github.com/XiaoHuZi-design/path_planner_plugins) | 自制路径规划插件 | Python |
 
 ---
