@@ -65,6 +65,14 @@ A developer who loves blending AI, computer vision, and web technologies into fu
 
 ---
 
+## 📖 Open Source Tutorials
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [git-tutorial](https://github.com/XiaoHuZi-design/git-tutorial) | The most comprehensive Git tutorial for beginners: from install to collaboration, with cheat sheets and workflow diagrams | Markdown |
+
+---
+
 ## 🤖 Robotics & ROS
 
 | Project | Description | Tech Stack |

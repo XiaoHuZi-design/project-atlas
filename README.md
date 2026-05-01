@@ -65,6 +65,14 @@
 
 ---
 
+## 📖 开源教程
+
+| 项目 | 简介 | 技术栈 |
+|------|------|--------|
+| [git-tutorial](https://github.com/XiaoHuZi-design/git-tutorial) | 面向小白的 Git 最全使用教程：从安装到协作，图文并茂，内嵌速查手册和工作流壁纸 | Markdown |
+
+---
+
 ## 🤖 机器人 & ROS
 
 | 项目 | 简介 | 技术栈 |
