@@ -58,6 +58,7 @@ A developer who loves blending AI, computer vision, and web technologies into fu
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [ai-context](https://github.com/XiaoHuZi-design/ai-context) ⭐ | Cross-tool, cross-device AI context management system — helps Claude/Codex remember project context | Shell / Markdown |
 | [claude-status-themes](https://github.com/XiaoHuZi-design/claude-status-themes) ⭐ | Claude Code status bar themes: Xianxia / Geek Dashboard / Pixel Game | Shell |
 | [tab-out](https://github.com/XiaoHuZi-design/tab-out) | Chrome new tab extension: domain grouping, search bar, dark mode, themes, bookmarks | JavaScript |
 | [todo-guard](https://github.com/XiaoHuZi-design/todo-guard) | CI/CD tool for enforcing TODO hygiene and tracking tech debt in PRs | TypeScript |
