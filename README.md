@@ -58,6 +58,7 @@
 
 | 项目 | 简介 | 技术栈 |
 |------|------|--------|
+| [ai-context](https://github.com/XiaoHuZi-design/ai-context) ⭐ | 跨工具、跨设备的 AI 上下文管理系统，让 Claude/Codex 记住项目上下文 | Shell / Markdown |
 | [claude-status-themes](https://github.com/XiaoHuZi-design/claude-status-themes) ⭐ | Claude Code 状态栏主题：仙侠古风 / 极客仪表盘 / 像素游戏 | Shell |
 | [tab-out](https://github.com/XiaoHuZi-design/tab-out) | Chrome 新标签页扩展：域名分组、搜索栏、暗黑模式、主题、书签栏 | JavaScript |
 | [todo-guard](https://github.com/XiaoHuZi-design/todo-guard) | CI/CD 工具：PR 中追踪 TODO 和技术债 | TypeScript |
